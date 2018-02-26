@@ -1,4 +1,4 @@
-#The Web Developer Bootcamp
+# The Web Developer Bootcamp
 
 This repository contains the projects that I made during Colt Steele's Developer Bootcamp (https://www.udemy.com/the-web-developer-bootcamp/).
 
